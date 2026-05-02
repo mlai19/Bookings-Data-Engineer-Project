@@ -1,10 +1,5 @@
 # Bookings-Data-Engineer-Project
 
-<img width="679" height="295" alt="image" src="https://github.com/user-attachments/assets/e5984b66-cb29-4d3b-ac15-a91635ccda44" />
-
-<img width="807" height="465" alt="Screenshot 2026-05-02 at 1 24 38 PM" src="https://github.com/user-attachments/assets/4de651e1-bfa2-4c0a-8f4c-3215fbc713cc" />
-
-
 ## Project Overview  
 **Project Title**: Hotel Bookings Data Engineer Project  
 **Database**: hotel_db
@@ -12,6 +7,11 @@
 This project is an end‑to‑end Hotel Booking Analytics System built entirely in Snowflake, designed to simulate how a real hotel processes raw booking files, cleans messy data, transforms it into business‑ready tables, and generates insights for management. The pipeline follows the Medallion Architecture (Bronze → Silver → Gold) and includes everything from data ingestion and validation to advanced SQL transformations and dashboard creation.
 
 The goal was to practice full‑stack data engineering skills such as building data pipelines, cleaning and standardizing inconsistent datasets, designing analytical models, and producing insights that support real business decisions.
+
+<img width="679" height="295" alt="image" src="https://github.com/user-attachments/assets/e5984b66-cb29-4d3b-ac15-a91635ccda44" />
+
+<img width="807" height="465" alt="Screenshot 2026-05-02 at 1 24 38 PM" src="https://github.com/user-attachments/assets/4de651e1-bfa2-4c0a-8f4c-3215fbc713cc" />
+
 
 ****Objectives****
 ---
